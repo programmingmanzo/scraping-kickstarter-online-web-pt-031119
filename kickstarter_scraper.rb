@@ -2,7 +2,6 @@
 require 'nokogiri'
 require 'pry'
 
-class Scraper 
   
   def create_project_hash
     # write your code here
@@ -15,4 +14,4 @@ class Scraper
   
 end
 
-Scraper.create_project_hash 
+create_project_hash 
