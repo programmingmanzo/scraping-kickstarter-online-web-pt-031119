@@ -32,7 +32,7 @@ require 'pry'
   # return the projects hash
   projects 
   
-    binding.pry 
+    #binding.pry 
   end 
   
 
